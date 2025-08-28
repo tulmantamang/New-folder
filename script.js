@@ -26,7 +26,6 @@ var typingEffect = new Typed(".typedText", {
 })
 
 // My Services
-// ScrollReveal Animations
 ScrollReveal({
   reset: true,
   distance: "60px",

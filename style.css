@@ -52,7 +52,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* ----Nav Bar---- */
+/*nav*/
 nav {
   position: fixed;
   display: flex;
